@@ -4,3 +4,5 @@ Gitの練習を始まます
 
 ・git add
 ・git commit
+
+今回は　diffです
